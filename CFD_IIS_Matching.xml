@@ -1,0 +1,634 @@
+<trayData swVersion="is24p09c" lotId="CFD_IIS_Matching" isDummyData="false" machineOffsetX="0" machineOffsetY="0" machineOffsetRotation="0" machineScaleX="1" machineScaleY="1" machineScaleRotation="1" machineOffsetLidTilt="0" machineOffsetLidAngleX="0" machineOffsetLidAngleY="0" machineOffsetLidHeightMax="0" machineOffsetLidHeightMin="0" machineScaleLidTilt="1" machineScaleLidAngleX="1" machineScaleLidAngleY="1" machineScaleLidHeightMax="1" machineScaleLidHeightMin="1">
+	<unitData timestamp="200331110932" id="M6424VG500295" lidId="" y="0" x="0" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17238.4" posY="18383" quality1="940" quality2="1000" radius="257.499" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18288.2" posY="-17326.1" quality1="1000" quality2="1000" radius="509.244" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17321.5" posY="-17488.3" quality1="1000" quality2="980" radius="254.909" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="649.634" posY="403.033" angle="-141.577" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500295" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-110.42" posY="142.703" angle="-27.4555" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-120.42" posY="150.303" angle="-27.4555" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="2495.89" posY="-8770.7" quality1="1000" quality2="0" area="0.002865" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110914574_M6424VG500295.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="2069.89" posY="-7470.7" quality1="0" quality2="0" area="0.002865" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500505" lidId="" y="0" x="1" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17267.7" posY="18406.9" quality1="980" quality2="1000" radius="257.825" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18271.4" posY="-17284.2" quality1="1000" quality2="1000" radius="508.232" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17340" posY="-17461.3" quality1="1000" quality2="1000" radius="259.023" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="626.62" posY="436.069" angle="-117.444" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500505" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="160.039" posY="-142.744" angle="-4.25548" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="150.039" posY="-135.144" angle="-4.25548" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-1179.21" posY="-8615.1" quality1="1000" quality2="0" area="0.00204643" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110919129_M6424VG500505.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-1605.21" posY="-7315.1" quality1="0" quality2="0" area="0.00204643" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500503" lidId="" y="0" x="2" trayNumber="9" lane="front" bincode="99" binCodeList="35,58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17184.8" posY="18344.9" quality1="930" quality2="1000" radius="257.516" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18368.7" posY="-17329.2" quality1="1000" quality2="1000" radius="507.705" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17238.5" posY="-17518.9" quality1="1000" quality2="1000" radius="257.833" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="716.798" posY="382.558" angle="-97.1874" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500503" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-228.998" posY="259.208" angle="-23.8516" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="failed" posX="-238.998" posY="266.808" angle="-23.8516" quality1="0" quality2="0" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_ihssli_200331110919997_M6424VG500503.jpg" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-2923.55" posY="-8784.33" quality1="1000" quality2="0" area="0.00532072" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110920269_M6424VG500503.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-3349.55" posY="-7484.33" quality1="0" quality2="0" area="0.00532072" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500500" lidId="" y="0" x="3" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17291.3" posY="18269.1" quality1="970" quality2="1000" radius="256.722" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18311.5" posY="-17363.9" quality1="980" quality2="1000" radius="510.24" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17299.9" posY="-17598.5" quality1="1000" quality2="1000" radius="259.996" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="635.133" posY="327.489" angle="-24.9821" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500500" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="252.601" posY="-236.145" angle="-26.1879" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="242.601" posY="-228.545" angle="-26.1879" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-531.502" posY="-3656.04" quality1="1000" quality2="0" area="0.0163714" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110924614_M6424VG500500.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-957.502" posY="-2356.04" quality1="0" quality2="0" area="0.0163714" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500490" lidId="" y="0" x="4" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17292.7" posY="18259.6" quality1="1000" quality2="1000" radius="256.563" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18270.9" posY="-17406.4" quality1="1000" quality2="1000" radius="508.835" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17339.9" posY="-17606.3" quality1="1000" quality2="1000" radius="258.704" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="613.975" posY="301.377" angle="-80.8259" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="900" quality2="0" text="M6424VG500490" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-6.8858" posY="16.2259" angle="-3.81609" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-16.8858" posY="23.8259" angle="-3.81609" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-2439.35" posY="5291.3" quality1="1000" quality2="0" area="0.0175993" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110925500_M6424VG500490.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-2865.35" posY="6591.3" quality1="0" quality2="0" area="0.0175993" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500515" lidId="" y="0" x="5" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17267" posY="18258.2" quality1="1000" quality2="1000" radius="255.64" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18300.7" posY="-17399" quality1="1000" quality2="1000" radius="507.527" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17303.7" posY="-17608.5" quality1="1000" quality2="1000" radius="259.775" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="641.738" posY="304.376" angle="-65.3258" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500515" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="257.544" posY="-242.007" angle="-23.0662" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="247.544" posY="-234.407" angle="-23.0662" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="4634.55" posY="-528.278" quality1="1000" quality2="0" area="0.0139157" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110929798_M6424VG500515.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="4208.55" posY="771.722" quality1="0" quality2="0" area="0.0139157" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500532" lidId="" y="0" x="6" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17328.5" posY="18131.8" quality1="980" quality2="1000" radius="255.885" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18306.1" posY="-17467.5" quality1="1000" quality2="1000" radius="509.739" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17303.1" posY="-17740.5" quality1="1000" quality2="1000" radius="259.717" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="613.955" posY="207.157" angle="36.7758" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500532" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="173.355" posY="-154.403" angle="-14.3468" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="163.355" posY="-146.803" angle="-14.3468" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="2389.53" posY="-8640.28" quality1="1000" quality2="0" area="0.002865" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110930682_M6424VG500532.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="1963.53" posY="-7340.28" quality1="0" quality2="0" area="0.002865" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500487" lidId="" y="1" x="0" trayNumber="9" lane="front" bincode="99" binCodeList="35,58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17180" posY="18411.1" quality1="960" quality2="1000" radius="257.352" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18389" posY="-17257.7" quality1="980" quality2="1000" radius="509.542" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17222.6" posY="-17455.9" quality1="1000" quality2="1000" radius="258.772" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="729.4" posY="451.425" angle="-83.6402" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500487" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-228.636" posY="266.614" angle="-12.2888" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="failed" posX="-238.636" posY="274.214" angle="-12.2888" quality1="0" quality2="0" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_ihssli_200331110915346_M6424VG500487.jpg" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="1106.55" posY="-9128.67" quality1="1000" quality2="0" area="0.00327429" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110915623_M6424VG500487.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="680.546" posY="-7828.67" quality1="0" quality2="0" area="0.00327429" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500489" lidId="" y="1" x="1" trayNumber="9" lane="front" bincode="99" binCodeList="35,58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17198.2" posY="18381.3" quality1="1000" quality2="1000" radius="254.076" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18382.5" posY="-17265.1" quality1="1000" quality2="1000" radius="509.9" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17228.6" posY="-17483.8" quality1="1000" quality2="1000" radius="258.706" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="717.102" posY="432.951" angle="-50.5564" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500489" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="262.833" posY="-240.648" angle="-24.9146" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="failed" posX="252.833" posY="-233.048" angle="-24.9146" quality1="0" quality2="0" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_ihssli_200331110918067_M6424VG500489.jpg" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="1414.55" posY="6105.02" quality1="1000" quality2="0" area="0.00409286" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110918337_M6424VG500489.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="988.551" posY="7405.02" quality1="0" quality2="0" area="0.00409286" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500492" lidId="" y="1" x="2" trayNumber="9" lane="front" bincode="99" binCodeList="35,58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17198.7" posY="18316.7" quality1="1000" quality2="1000" radius="255.188" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18373.1" posY="-17349.5" quality1="1000" quality2="1000" radius="506.065" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17240.6" posY="-17551.9" quality1="1000" quality2="1000" radius="257.017" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="712.104" posY="358.368" angle="-76.8991" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="900" quality2="0" text="M6424VG500492" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-227.43" posY="267.589" angle="-7.25594" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="failed" posX="-237.43" posY="275.189" angle="-7.25594" quality1="0" quality2="0" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_ihssli_200331110921067_M6424VG500492.jpg" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="4599.27" posY="-8594.37" quality1="1000" quality2="0" area="0.00327429" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110921345_M6424VG500492.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="4173.27" posY="-7294.37" quality1="0" quality2="0" area="0.00327429" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500299" lidId="" y="1" x="3" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17217.7" posY="18271.5" quality1="1000" quality2="1000" radius="256.31" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18377.4" posY="-17366" quality1="1000" quality2="1000" radius="510.637" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17233.7" posY="-17595.2" quality1="1000" quality2="1000" radius="260.183" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="704.862" posY="327.613" angle="-33.667" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500299" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-2.25622" posY="10.2735" angle="-27.856" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-12.2562" posY="17.8735" angle="-27.856" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="4421" posY="-204.282" quality1="1000" quality2="0" area="0.0180086" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110923821_M6424VG500299.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="3995" posY="1095.72" quality1="0" quality2="0" area="0.0180086" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500537" lidId="" y="1" x="4" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17287.1" posY="18268.9" quality1="1000" quality2="1000" radius="256.441" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18317.5" posY="-17355.7" quality1="1000" quality2="1000" radius="510.393" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17292.3" posY="-17598.4" quality1="1000" quality2="1000" radius="260.505" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="640.183" posY="331.518" angle="-11.9456" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500537" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-122.578" posY="158.161" angle="-1.48636" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-132.578" posY="165.761" angle="-1.48636" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-2444.73" posY="-4475.67" quality1="1000" quality2="0" area="0.0110507" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110926303_M6424VG500537.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-2870.73" posY="-3175.67" quality1="0" quality2="0" area="0.0110507" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500512" lidId="" y="1" x="5" trayNumber="9" lane="front" bincode="99" binCodeList="35,58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17279.9" posY="18229.2" quality1="980" quality2="1000" radius="254.191" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18323.7" posY="-17403.4" quality1="970" quality2="1000" radius="510.221" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17285.1" posY="-17639.6" quality1="1000" quality2="1000" radius="260.627" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="646.926" posY="287.82" angle="-22.3988" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500512" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-232.147" posY="260.582" angle="-2.72517" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="failed" posX="-242.147" posY="268.182" angle="-2.72517" quality1="0" quality2="0" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_ihssli_200331110928745_M6424VG500512.jpg" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="3569.35" posY="-2482.48" quality1="1000" quality2="0" area="0.00450214" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110929018_M6424VG500512.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="3143.35" posY="-1182.48" quality1="0" quality2="0" area="0.00450214" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500497" lidId="" y="1" x="6" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17281.7" posY="18225.9" quality1="1000" quality2="1000" radius="255.613" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18302.5" posY="-17421.9" quality1="1000" quality2="1000" radius="512.134" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17307.1" posY="-17640.3" quality1="980" quality2="1000" radius="260.338" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="635.359" posY="276.839" angle="-51.0915" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500497" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-120.601" posY="145.079" angle="1.39151" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-130.601" posY="152.679" angle="1.39151" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="1075.98" posY="6092.68" quality1="1000" quality2="0" area="0.00491143" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110931478_M6424VG500497.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="649.98" posY="7392.68" quality1="0" quality2="0" area="0.00491143" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500535" lidId="" y="2" x="0" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17239.8" posY="18410.1" quality1="960" quality2="1000" radius="258.025" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18411.2" posY="-17175.6" quality1="1000" quality2="1000" radius="509.885" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17199.9" posY="-17458.8" quality1="1000" quality2="1000" radius="257.823" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="710.873" posY="492.317" angle="53.1943" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500535" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="176.044" posY="-151.674" angle="-12.9603" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="166.044" posY="-144.074" angle="-12.9603" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-2594.47" posY="6164.94" quality1="1000" quality2="0" area="0.0331522" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110916408_M6424VG500535.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-3020.47" posY="7464.94" quality1="0" quality2="0" area="0.0331522" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500534" lidId="" y="2" x="1" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17232.8" posY="18371.7" quality1="1000" quality2="1000" radius="250.551" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18380.8" posY="-17239.8" quality1="1000" quality2="1000" radius="509.201" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17226.4" posY="-17492.9" quality1="1000" quality2="1000" radius="259.096" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="699.057" posY="440.869" angle="4.75809" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500534" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-13.5006" posY="5.70034" angle="-6.41509" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-23.5006" posY="13.3003" angle="-6.41509" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="4054.2" posY="-2017.01" quality1="1000" quality2="0" area="0.00982286" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110917293_M6424VG500534.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="3628.2" posY="-717.014" quality1="0" quality2="0" area="0.00982286" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500531" lidId="" y="2" x="2" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17177.9" posY="18405.6" quality1="1000" quality2="1000" radius="257.25" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18371.8" posY="-17266.9" quality1="1000" quality2="1000" radius="509.88" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17235.1" posY="-17461.7" quality1="980" quality2="1000" radius="259.232" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="721.761" posY="444.055" angle="-89.0174" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500531" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-6.98936" posY="12.8834" angle="-14.4996" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-16.9894" posY="20.4834" angle="-14.4996" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-2832.4" posY="6079.43" quality1="1000" quality2="0" area="0.00491143" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110922130_M6424VG500531.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-3258.4" posY="7379.43" quality1="0" quality2="0" area="0.00491143" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500495" lidId="" y="2" x="3" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17220" posY="18289.1" quality1="1000" quality2="1000" radius="256.611" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18364.6" posY="-17360.2" quality1="970" quality2="970" radius="505.877" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17244.7" posY="-17578.9" quality1="1000" quality2="1000" radius="259.47" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="697.275" posY="339.244" angle="-50.5521" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500495" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-4.87228" posY="16.6485" angle="1.7801" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-14.8723" posY="24.2485" angle="1.7801" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="1733.95" posY="6111.11" quality1="1000" quality2="0" area="0.0106414" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110923018_M6424VG500495.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="1307.95" posY="7411.11" quality1="0" quality2="0" area="0.0106414" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500509" lidId="" y="2" x="4" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17243.8" posY="18302.1" quality1="1000" quality2="1000" radius="256.22" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18367.4" posY="-17317.6" quality1="1000" quality2="1000" radius="510.75" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17239.5" posY="-17566.4" quality1="1000" quality2="1000" radius="259.652" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="686.829" posY="367.171" angle="-2.1807" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500509" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="257.654" posY="-250.606" angle="-24.6043" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="247.654" posY="-243.006" angle="-24.6043" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="2532.78" posY="-8822.51" quality1="1000" quality2="0" area="0.00695786" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110927079_M6424VG500509.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="2106.78" posY="-7522.51" quality1="0" quality2="0" area="0.00695786" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500506" lidId="" y="2" x="5" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17171.1" posY="18286.5" quality1="1000" quality2="1000" radius="255.502" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18390.1" posY="-17382.5" quality1="1000" quality2="1000" radius="508.274" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17215.7" posY="-17575.9" quality1="1000" quality2="1000" radius="256.877" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="734.37" posY="326.791" angle="-91.1471" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500506" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="181.843" posY="-155.248" angle="-6.24292" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="171.843" posY="-147.648" angle="-6.24292" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="4540.83" posY="-8656.87" quality1="1000" quality2="0" area="0.00327429" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110927972_M6424VG500506.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="4114.83" posY="-7356.87" quality1="0" quality2="0" area="0.00327429" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331110932" id="M6424VG500493" lidId="" y="2" x="6" trayNumber="9" lane="front" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-17152.3" posY="18229.7" quality1="970" quality2="1000" radius="257.385" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="18389.6" posY="-17456.9" quality1="1000" quality2="1000" radius="512.977" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-17219" posY="-17639.8" quality1="1000" quality2="1000" radius="260.912" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="743.45" posY="261.113" angle="-108.236" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="900" quality2="0" text="M6424VG500493" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-109.96" posY="146.725" angle="-48.1471" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-119.96" posY="154.325" angle="-48.1471" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-1638.4" posY="6146.31" quality1="1000" quality2="0" area="0.00368357" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331110932281_M6424VG500493.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-2064.4" posY="7446.31" quality1="0" quality2="0" area="0.00368357" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+</trayData>
+<trayData swVersion="is24p09c" lotId="CFD_IIS_Matching" isDummyData="false" machineOffsetX="0" machineOffsetY="0" machineOffsetRotation="0" machineScaleX="1" machineScaleY="1" machineScaleRotation="1" machineOffsetLidTilt="0" machineOffsetLidAngleX="0" machineOffsetLidAngleY="0" machineOffsetLidHeightMax="0" machineOffsetLidHeightMin="0" machineScaleLidTilt="1" machineScaleLidAngleX="1" machineScaleLidAngleY="1" machineScaleLidHeightMax="1" machineScaleLidHeightMin="1">
+	<unitData timestamp="200331111032" id="M6424VG500295" lidId="" y="0" x="0" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16448.5" posY="18462.2" quality1="950" quality2="1000" radius="257.63" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19075.1" posY="-17250.4" quality1="1000" quality2="1000" radius="508.812" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16533.7" posY="-17410.6" quality1="1000" quality2="990" radius="253.954" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1438.02" posY="480.486" angle="-144.888" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500295" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-107.729" posY="140.226" angle="-0.0962339" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-117.729" posY="147.826" angle="-0.0962339" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="2493.14" posY="-8768.87" quality1="1000" quality2="0" area="0.00327429" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111014255_M6424VG500295.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="2067.14" posY="-7468.87" quality1="0" quality2="0" area="0.00327429" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500505" lidId="" y="0" x="1" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16472.3" posY="18477.4" quality1="980" quality2="1000" radius="257.92" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19065.7" posY="-17215" quality1="980" quality2="1000" radius="507.884" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16545.9" posY="-17391" quality1="1000" quality2="1000" radius="258.465" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1421.49" posY="505.873" angle="-119.272" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500505" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="163.021" posY="-140.725" angle="9.83989" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="153.021" posY="-133.125" angle="9.83989" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="2544.63" posY="6159.24" quality1="1000" quality2="0" area="0.00163714" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111018815_M6424VG500505.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="2118.63" posY="7459.24" quality1="0" quality2="0" area="0.00163714" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500503" lidId="" y="0" x="2" trayNumber="10" lane="rear" bincode="99" binCodeList="35,58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16463.4" posY="18398.3" quality1="960" quality2="1000" radius="257.914" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19124.7" posY="-17242.2" quality1="1000" quality2="1000" radius="507.653" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16482.5" posY="-17465.9" quality1="1000" quality2="1000" radius="258.06" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1455.63" posY="452.917" angle="-42.5206" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500503" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-229.883" posY="262.942" angle="-40.2454" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="failed" posX="-239.883" posY="270.542" angle="-40.2454" quality1="0" quality2="0" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_ihssli_200331111019664_M6424VG500503.jpg" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-2924.05" posY="-8775.21" quality1="1000" quality2="0" area="0.00532072" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111019946_M6424VG500503.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-3350.05" posY="-7475.21" quality1="0" quality2="0" area="0.00532072" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500500" lidId="" y="0" x="3" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16469" posY="18312.5" quality1="940" quality2="1000" radius="256.519" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19132.4" posY="-17321.9" quality1="980" quality2="1000" radius="509.707" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16479" posY="-17555.1" quality1="1000" quality2="1000" radius="259.752" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1456.68" posY="370.168" angle="-27.2265" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500500" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="256.448" posY="-236.319" angle="-23.9385" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="246.448" posY="-228.719" angle="-23.9385" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-532.855" posY="-3662.23" quality1="1000" quality2="0" area="0.0188271" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111024280_M6424VG500500.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-958.855" posY="-2362.23" quality1="0" quality2="0" area="0.0188271" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500490" lidId="" y="0" x="4" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16489.7" posY="18329.7" quality1="1000" quality2="1000" radius="256.297" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19075.8" posY="-17335.2" quality1="1000" quality2="1000" radius="508.656" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16535.1" posY="-17537.7" quality1="1000" quality2="1000" radius="258.926" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1417.96" posY="372.015" angle="-76.5904" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500490" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-5.07468" posY="14.4008" angle="-26.2746" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-15.0747" posY="22.0008" angle="-26.2746" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-2440.03" posY="5290.24" quality1="1000" quality2="0" area="0.0196457" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111025141_M6424VG500490.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-2866.03" posY="6590.24" quality1="0" quality2="0" area="0.0196457" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500515" lidId="" y="0" x="5" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16474.9" posY="18309.2" quality1="1000" quality2="1000" radius="255.239" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19092.6" posY="-17349.3" quality1="1000" quality2="1000" radius="506.258" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16513.1" posY="-17558.5" quality1="1000" quality2="1000" radius="258.929" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1433.77" posY="354.734" angle="-65.7994" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500515" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="257.882" posY="-244.596" angle="-22.1886" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="247.882" posY="-236.996" angle="-22.1886" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="4633.69" posY="-526.005" quality1="1000" quality2="0" area="0.0130971" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111029464_M6424VG500515.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="4207.69" posY="773.995" quality1="0" quality2="0" area="0.0130971" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500532" lidId="" y="0" x="6" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16450.4" posY="18265.9" quality1="980" quality2="1000" radius="255.98" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19188.9" posY="-17331.9" quality1="1000" quality2="1000" radius="509.897" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16421" posY="-17606.9" quality1="1000" quality2="1000" radius="259.507" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1494.4" posY="341.983" angle="39.9488" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500532" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="173.546" posY="-153.973" angle="-17.5148" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="163.546" posY="-146.373" angle="-17.5148" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="2396.12" posY="-8635.9" quality1="1000" quality2="0" area="0.00327429" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111030352_M6424VG500532.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="1970.12" posY="-7335.9" quality1="0" quality2="0" area="0.00327429" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500487" lidId="" y="1" x="0" trayNumber="10" lane="rear" bincode="99" binCodeList="35,58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16398.8" posY="18507.6" quality1="910" quality2="1000" radius="257.897" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19168.3" posY="-17163.5" quality1="1000" quality2="1000" radius="508.892" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16443.7" posY="-17360.4" quality1="1000" quality2="1000" radius="258.902" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1509.63" posY="546.758" angle="-85.6818" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="850" quality2="0" text="M6424VG500487" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-233.447" posY="267.88" angle="-10.3792" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="failed" posX="-243.447" posY="275.48" angle="-10.3792" quality1="0" quality2="0" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_ihssli_200331111015034_M6424VG500487.jpg" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="1100.56" posY="-9129.9" quality1="1000" quality2="0" area="0.00327429" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111015303_M6424VG500487.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="674.556" posY="-7829.9" quality1="0" quality2="0" area="0.00327429" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500489" lidId="" y="1" x="1" trayNumber="10" lane="rear" bincode="99" binCodeList="35,58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16404.6" posY="18451.8" quality1="970" quality2="1000" radius="253.816" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19172.8" posY="-17196.8" quality1="1000" quality2="1000" radius="509.448" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16438.4" posY="-17413.6" quality1="1000" quality2="1000" radius="258.628" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1509.06" posY="502.331" angle="-53.5445" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="850" quality2="0" text="M6424VG500489" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="263.264" posY="-242.144" angle="-21.7545" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="failed" posX="253.264" posY="-234.544" angle="-21.7545" quality1="0" quality2="0" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_ihssli_200331111017736_M6424VG500489.jpg" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="4643.57" posY="-7646.25" quality1="1000" quality2="0" area="0.00327429" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111018014_M6424VG500489.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="4217.57" posY="-6346.25" quality1="0" quality2="0" area="0.00327429" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500492" lidId="" y="1" x="2" trayNumber="10" lane="rear" bincode="99" binCodeList="35,58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16400.4" posY="18388.2" quality1="1000" quality2="1000" radius="255.303" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19168.7" posY="-17282" quality1="1000" quality2="1000" radius="505.537" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16445.5" posY="-17481.4" quality1="1000" quality2="1000" radius="257.327" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1509.06" posY="427.84" angle="-81.7801" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="850" quality2="0" text="M6424VG500492" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-230.768" posY="270.107" angle="-15.1709" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="failed" posX="-240.768" posY="277.707" angle="-15.1709" quality1="0" quality2="0" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_ihssli_200331111020708_M6424VG500492.jpg" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-1877.88" posY="6102.58" quality1="1000" quality2="0" area="0.00409286" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111020980_M6424VG500492.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-2303.88" posY="7402.58" quality1="0" quality2="0" area="0.00409286" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500299" lidId="" y="1" x="3" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16416.8" posY="18334.6" quality1="1000" quality2="1000" radius="256.197" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19178.4" posY="-17303.6" quality1="980" quality2="1000" radius="509.592" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16434.5" posY="-17532.6" quality1="1000" quality2="1000" radius="259.856" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1505.78" posY="390.374" angle="-34.0275" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500299" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-1.31702" posY="11.4695" angle="-27.4955" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-11.317" posY="19.0695" angle="-27.4955" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="4420.37" posY="-198.505" quality1="1000" quality2="0" area="0.01719" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111023476_M6424VG500299.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="3994.37" posY="1101.49" quality1="0" quality2="0" area="0.01719" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500537" lidId="" y="1" x="4" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16485.5" posY="18323.9" quality1="980" quality2="1000" radius="256.136" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19114" posY="-17306.9" quality1="1000" quality2="1000" radius="509.237" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16496.4" posY="-17544" quality1="1000" quality2="1000" radius="259.95" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1439.27" posY="383.401" angle="-20.9525" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="850" quality2="0" text="M6424VG500537" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-122.907" posY="158.991" angle="-4.30451" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-132.907" posY="166.591" angle="-4.30451" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-2772.73" posY="-5229.53" quality1="1000" quality2="0" area="0.0118693" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111025961_M6424VG500537.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-3198.73" posY="-3929.53" quality1="0" quality2="0" area="0.0118693" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500512" lidId="" y="1" x="5" trayNumber="10" lane="rear" bincode="99" binCodeList="35,58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16479.3" posY="18285.7" quality1="980" quality2="1000" radius="253.908" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19122.2" posY="-17349.6" quality1="980" quality2="1000" radius="508.268" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16487" posY="-17583.4" quality1="1000" quality2="1000" radius="259.398" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1446.5" posY="342.893" angle="-26.3911" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500512" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-230.91" posY="258.756" angle="-10.5559" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="failed" posX="-240.91" posY="266.356" angle="-10.5559" quality1="0" quality2="0" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_ihssli_200331111028414_M6424VG500512.jpg" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="3571.23" posY="-2478.96" quality1="1000" quality2="0" area="0.00491143" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111028684_M6424VG500512.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="3145.23" posY="-1178.96" quality1="0" quality2="0" area="0.00491143" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500497" lidId="" y="1" x="6" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16496.1" posY="18274.3" quality1="1000" quality2="1000" radius="255.134" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19086" posY="-17377.2" quality1="1000" quality2="1000" radius="509.96" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16524.4" posY="-17591.8" quality1="980" quality2="1000" radius="258.404" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1419.9" posY="323.361" angle="-57.1327" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500497" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-121.728" posY="147.147" angle="-28.4283" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-131.728" posY="154.747" angle="-28.4283" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="1408.03" posY="6086.72" quality1="1000" quality2="0" area="0.00613929" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111031155_M6424VG500497.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="982.031" posY="7386.72" quality1="0" quality2="0" area="0.00613929" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500535" lidId="" y="2" x="0" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16435.7" posY="18490.6" quality1="920" quality2="1000" radius="258.295" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19212.2" posY="-17099.2" quality1="1000" quality2="1000" radius="509.655" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16399.7" posY="-17378.8" quality1="1000" quality2="1000" radius="257.804" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1513.42" posY="570.755" angle="47.395" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500535" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="175.407" posY="-151.951" angle="-13.007" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="165.407" posY="-144.351" angle="-13.007" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-2621.42" posY="6152.41" quality1="1000" quality2="0" area="0.0433843" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111016080_M6424VG500535.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-3047.42" posY="7452.41" quality1="0" quality2="0" area="0.0433843" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500534" lidId="" y="2" x="1" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16435.5" posY="18444.4" quality1="970" quality2="1000" radius="250.593" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19170.6" posY="-17174.5" quality1="1000" quality2="1000" radius="509.246" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16436.8" posY="-17420.6" quality1="980" quality2="1000" radius="259.181" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1492.6" posY="509.863" angle="-6.57591" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="850" quality2="0" text="M6424VG500534" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-13.7199" posY="6.73497" angle="-18.9471" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-23.7199" posY="14.335" angle="-18.9471" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="4051.57" posY="-2012.17" quality1="1000" quality2="0" area="0.00900429" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111016968_M6424VG500534.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="3625.57" posY="-712.175" quality1="0" quality2="0" area="0.00900429" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500531" lidId="" y="2" x="2" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16365" posY="18474.1" quality1="1000" quality2="1000" radius="257.366" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19189.9" posY="-17193.8" quality1="1000" quality2="1000" radius="509.482" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16417.3" posY="-17394" quality1="980" quality2="1000" radius="259.26" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1537.28" posY="514.911" angle="-80.3708" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500531" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-6.99455" posY="13.4702" angle="9.21981" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-16.9946" posY="21.0702" angle="9.21981" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="3987.15" posY="6063.59" quality1="1000" quality2="0" area="0.00613929" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111021762_M6424VG500531.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="3561.15" posY="7363.59" quality1="0" quality2="0" area="0.00613929" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500495" lidId="" y="2" x="3" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16409.4" posY="18351.6" quality1="1000" quality2="1000" radius="256.911" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19173.6" posY="-17300.8" quality1="1000" quality2="960" radius="506.414" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16437.4" posY="-17517" quality1="1000" quality2="1000" radius="259.588" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1507.02" posY="400.204" angle="-54.558" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500495" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-5.41222" posY="17.3299" angle="6.17497" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-15.4122" posY="24.9299" angle="6.17497" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="1779.35" posY="6634.51" quality1="1000" quality2="0" area="0.00900429" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111022668_M6424VG500495.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="1353.35" posY="7934.51" quality1="0" quality2="0" area="0.00900429" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500509" lidId="" y="2" x="4" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16434.7" posY="18361.1" quality1="980" quality2="1000" radius="255.776" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19176.1" posY="-17259.4" quality1="1000" quality2="1000" radius="509.275" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16431.9" posY="-17507.1" quality1="1000" quality2="1000" radius="259.218" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1495.74" posY="425.749" angle="-3.92565" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500509" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="257.818" posY="-249.462" angle="-12.4263" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="247.818" posY="-241.862" angle="-12.4263" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="2528.52" posY="-8825.44" quality1="1000" quality2="0" area="0.00613929" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111026764_M6424VG500509.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="2102.52" posY="-7525.44" quality1="0" quality2="0" area="0.00613929" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500506" lidId="" y="2" x="5" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16358.5" posY="18333" quality1="980" quality2="1000" radius="255.786" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19201.7" posY="-17338" quality1="1000" quality2="1000" radius="508.201" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16404.5" posY="-17529.8" quality1="1000" quality2="1000" radius="257.123" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1546.47" posY="372.221" angle="-93.7731" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="1000" quality2="0" text="M6424VG500506" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="181.848" posY="-154.641" angle="-15.5729" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="171.848" posY="-147.041" angle="-15.5729" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="4544.95" posY="-8658.87" quality1="1000" quality2="0" area="0.00327429" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111027636_M6424VG500506.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="4118.95" posY="-7358.87" quality1="0" quality2="0" area="0.00327429" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+	<unitData timestamp="200331111032" id="M6424VG500493" lidId="" y="2" x="6" trayNumber="10" lane="rear" bincode="99" binCodeList="58,55" recipeVersion="3">
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj1" status="pass" posX="-16343.5" posY="18278.5" quality1="960" quality2="1000" radius="256.106" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj2" status="pass" posX="19196.1" posY="-17412.2" quality1="980" quality2="1000" radius="510.292" />
+		<inspectionResult searchType="cirloc" searchId="CoffeeLake6p2_IIS01-adj3" status="pass" posX="-16413.9" posY="-17591.1" quality1="1000" quality2="1000" radius="259.357" />
+		<inspectionResult searchType="adjres" searchId="CoffeeLake6p2_IIS01-ad" status="pass" posX="1551.09" posY="307.83" angle="-114.566" />
+		<inspectionResult searchType="datmat" searchId="CoffeeLake6p2_IIS01-sid1" status="pass" quality1="950" quality2="0" text="M6424VG500493" />
+		<inspectionResult searchType="ihssli" searchId="CoffeeLake6p2_IIS01_sealant-vi1" status="pass" posX="-110.714" posY="147.159" angle="-41.7996" quality1="1000" quality2="1000" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_sealant-vi" status="pass" posX="-120.714" posY="154.759" angle="-41.7996" quality1="100" quality2="1000" offsetX="10" offsetY="7.6" offsetRotation="-10.3" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="cogchk" searchId="CoffeeLake6p2_IIS01_ptim-vi1" status="failed" posX="-2844.29" posY="6117.47" quality1="1000" quality2="0" area="0.00368357" imageName="/sd0/datacon/failedsearches/CFD_IIS_Matching_CoffeeLake6p2_IIS01_3x_cogchk_200331111031955_M6424VG500493.jpg" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_ptim-vi" status="failed" posX="-3270.29" posY="7417.47" quality1="0" quality2="0" area="0.00368357" offsetX="0" offsetY="0" offsetRotation="0" scaleX="1" scaleY="1" scaleRotation="1" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm-vi" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="ihssfi" searchId="CoffeeLake6p2_IIS01_fm_1-vi1" status="pass" quality1="1000" quality2="0" />
+		<inspectionResult searchType="inspres" searchId="CoffeeLake6p2_IIS01_fm_1-vi" status="pass" quality1="1000" quality2="0" />
+	</unitData>
+</trayData>
